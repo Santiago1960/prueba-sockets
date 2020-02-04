@@ -1,0 +1,4 @@
+# Archivos que no vamos a respaldar en GitHub
+
+dist/
+node_modules/
